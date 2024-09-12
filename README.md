@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi I'm Grace! I'm a second year at UVA from Charlottesville, VA majoring in data science.
 <!--
 **gracepitts/gracepitts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
